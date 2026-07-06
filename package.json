@@ -1,0 +1,11 @@
+{
+  "name": "dcness-smoke",
+  "version": "0.0.1",
+  "description": "dcNess v0.13.0 fresh-env smoke fixture (JS repo, no python)",
+  "scripts": {
+    "test": "node --test",
+    "build": "echo \"no build\"",
+    "lint": "echo \"no lint\""
+  },
+  "license": "MIT"
+}
